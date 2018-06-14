@@ -1,0 +1,109 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 14/06/2018 11:43
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-supplies-2:before { content: "\f100"; }
+.flaticon-supplies-1:before { content: "\f101"; }
+.flaticon-supplies:before { content: "\f102"; }
+.flaticon-automation:before { content: "\f103"; }
+.flaticon-computer:before { content: "\f104"; }
+.flaticon-stethoscope:before { content: "\f105"; }
+.flaticon-diagnostic:before { content: "\f106"; }
+.flaticon-medical-stethoscope-variant:before { content: "\f107"; }
+.flaticon-transformer:before { content: "\f108"; }
+.flaticon-wind-turbine:before { content: "\f109"; }
+.flaticon-energy-saving:before { content: "\f10a"; }
+.flaticon-gears-couple:before { content: "\f10b"; }
+.flaticon-repair-mechanism:before { content: "\f10c"; }
+.flaticon-hammer-and-wrench:before { content: "\f10d"; }
+.flaticon-setting-tool:before { content: "\f10e"; }
+.flaticon-boxes:before { content: "\f10f"; }
+.flaticon-oil:before { content: "\f110"; }
+.flaticon-gas-truck:before { content: "\f111"; }
+.flaticon-valve-1:before { content: "\f112"; }
+.flaticon-gas-pipe:before { content: "\f113"; }
+.flaticon-valve:before { content: "\f114"; }
+.flaticon-support-1:before { content: "\f115"; }
+.flaticon-information-2:before { content: "\f116"; }
+.flaticon-information-1:before { content: "\f117"; }
+.flaticon-info:before { content: "\f118"; }
+.flaticon-information:before { content: "\f119"; }
+.flaticon-help:before { content: "\f11a"; }
+.flaticon-24-hours:before { content: "\f11b"; }
+.flaticon-support:before { content: "\f11c"; }
+.flaticon-telemarketer:before { content: "\f11d"; }
+.flaticon-settings-1:before { content: "\f11e"; }
+.flaticon-oil-extractor:before { content: "\f11f"; }
+.flaticon-oil-tower:before { content: "\f120"; }
+.flaticon-settings:before { content: "\f121"; }
+.flaticon-wrench:before { content: "\f122"; }
+    
+    $font-Flaticon-supplies-2: "\f100";
+    $font-Flaticon-supplies-1: "\f101";
+    $font-Flaticon-supplies: "\f102";
+    $font-Flaticon-automation: "\f103";
+    $font-Flaticon-computer: "\f104";
+    $font-Flaticon-stethoscope: "\f105";
+    $font-Flaticon-diagnostic: "\f106";
+    $font-Flaticon-medical-stethoscope-variant: "\f107";
+    $font-Flaticon-transformer: "\f108";
+    $font-Flaticon-wind-turbine: "\f109";
+    $font-Flaticon-energy-saving: "\f10a";
+    $font-Flaticon-gears-couple: "\f10b";
+    $font-Flaticon-repair-mechanism: "\f10c";
+    $font-Flaticon-hammer-and-wrench: "\f10d";
+    $font-Flaticon-setting-tool: "\f10e";
+    $font-Flaticon-boxes: "\f10f";
+    $font-Flaticon-oil: "\f110";
+    $font-Flaticon-gas-truck: "\f111";
+    $font-Flaticon-valve-1: "\f112";
+    $font-Flaticon-gas-pipe: "\f113";
+    $font-Flaticon-valve: "\f114";
+    $font-Flaticon-support-1: "\f115";
+    $font-Flaticon-information-2: "\f116";
+    $font-Flaticon-information-1: "\f117";
+    $font-Flaticon-info: "\f118";
+    $font-Flaticon-information: "\f119";
+    $font-Flaticon-help: "\f11a";
+    $font-Flaticon-24-hours: "\f11b";
+    $font-Flaticon-support: "\f11c";
+    $font-Flaticon-telemarketer: "\f11d";
+    $font-Flaticon-settings-1: "\f11e";
+    $font-Flaticon-oil-extractor: "\f11f";
+    $font-Flaticon-oil-tower: "\f120";
+    $font-Flaticon-settings: "\f121";
+    $font-Flaticon-wrench: "\f122";
